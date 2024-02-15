@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anuragdubeyy
-- 👀 I’m interested in codin
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me aanurag9628@gmai.com
+- 📫 How to reach me aanurag9628@gmail.com
 
 <!---
 anurag9682/anurag9682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
