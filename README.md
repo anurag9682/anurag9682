@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anuragdubeyy
+- 👋 Hi, I’m @anuragdubey
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me aanurag9628@gmail.com
 
